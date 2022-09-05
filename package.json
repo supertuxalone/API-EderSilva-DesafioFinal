@@ -1,0 +1,29 @@
+{
+  "name": "dashboard-ford-api",
+  "version": "1.0.0",
+  "description": "Desafio Final DashBoard - FORD",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supertuxalone/dashboard-Ford-sprintFinal.git"
+  },
+  "author": "Eder Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supertuxalone/dashboard-Ford-sprintFinal/issues"
+  },
+  "homepage": "https://github.com/supertuxalone/dashboard-Ford-sprintFinal#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.1",
+    "middleware": "^1.0.0",
+    "moment": "^2.29.4",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "save-dev": "^0.0.1-security"
+  }
+}
